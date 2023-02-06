@@ -1,4 +1,4 @@
-# clima-app-node
+# App del clima por ubicación en Node
 Te permite saber el clima de la ciudad buscada. Para ejecutarlo pueden abrir un terminal e introducir los siguiente comandos:
 
 ```
